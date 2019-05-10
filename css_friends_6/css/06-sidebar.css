@@ -1,0 +1,12 @@
+/* PHASE 6: Sidebar */
+
+.profile-picture {
+    display: block;
+    border-radius: 5px;
+    border: 1px solid black;
+    z-index: 1;
+    height: 190px;
+    width: 190px;
+    margin-top: -80px;
+}
+
